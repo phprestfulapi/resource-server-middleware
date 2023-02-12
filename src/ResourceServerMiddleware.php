@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace PhpRestfulapi\ResourceServerMiddleware;
 
-use Exception;
 use League\OAuth2\Server\Exception\OAuthServerException;
 use League\OAuth2\Server\ResourceServer;
 use Psr\Http\Message\ResponseFactoryInterface;
