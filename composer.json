@@ -1,10 +1,10 @@
 {
     "name": "phprestfulapi/resource-server-middleware",
     "type": "library",
-    "description": "PSR-15 Resource server middleware for League\\OAuth2",
+    "description": "PSR-15 Resource server middleware for League's OAuth2",
     "keywords": [
         "oauth2",
-        "League\\OAuth2",
+        "League OAuth2",
         "PSR-7",
         "PSR-15",
         "PSR-17"
